@@ -1,0 +1,28 @@
+# Build outputs
+Debug/
+*.out
+*.obj
+*.d
+*.map
+*.mk
+*.opt
+*.xml
+
+# CCS specific
+.ccsproject
+.cproject
+.project
+.settings/
+*.ccxml
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
