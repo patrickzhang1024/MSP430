@@ -7,7 +7,7 @@ This repository contains demonstration projects for the MSP430FR2155 microcontro
 The MSP430FR2155 is a low-power microcontroller from Texas Instruments featuring FRAM (Ferroelectric Random Access Memory) technology. This project provides a comprehensive BSP (Board Support Package) and example applications demonstrating various peripherals and real-time operating system integration.
 
 ## Features
-
+Encoding: GB 2312
 - **Bare-metal Demo**: Simple demonstration without RTOS
 - **FreeRTOS Demo**: Real-time operating system integration with task management
 - **BSP Layer**: Hardware abstraction layer for easy portability
