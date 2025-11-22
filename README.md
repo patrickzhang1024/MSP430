@@ -182,7 +182,7 @@ void init_uartA1(void);
 
 ## License
 
-This project is provided as-is for educational and demonstration purposes.
+MIT Author:Patrick Zhang 2025-11-01
 
 ## References
 
